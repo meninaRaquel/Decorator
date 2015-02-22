@@ -8,4 +8,5 @@ public class BouletteViande extends DecorateurPizza{
 	public String affichePizzaDescription(){
 		return super.pizza.affichePizzaDescription()+", Boulette de viande";
 	}
+	//coucou
 }
